@@ -7,7 +7,7 @@ author: Delimard <support@delimard.fr>
 
 Sommaire
 -------
-Fichier d'exemple issue de l'article de mon Blog : <a href="https://www.delimard.fr/blog/tips/article-popup-menu-xojo-emoji.html">Lire ici</a>
+Fichier d'exemple issue de l'article de mon Blog : <a href="https://www.delimard.fr/blog/tips/article-popup-menu-xojo-emoji.html" target="_blank">Lire ici</a>
 
 
 
